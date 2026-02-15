@@ -10,3 +10,4 @@ local v0=game:GetService("Players");local v1=game:GetService("TweenService");loc
           \_Welcome to LuaObfuscator.com   (Alpha 0.10.9) ~  Much Love, Ferib 
 
 ]]--
+    
